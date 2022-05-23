@@ -1,7 +1,7 @@
 {
   "name": "buger-eats",
   "version": "1.0.0",
-  "description": "projeto de teste de aceitação do app buger-eats",
+  "description": "Projeto de teste de aceitação do app BugerEats",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
@@ -14,6 +14,6 @@
     "gerador-validador-cpf": "^5.0.2"
   },
   "devDependencies": {
-    "faker": "^5.5.3"
+    "faker": "5.5.3"
   }
 }
